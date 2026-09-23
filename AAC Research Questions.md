@@ -38,7 +38,7 @@ Initial Questions
 6. Can you describe your experiences using speech generating devices?  
 7. Please share the types/versions/brands you have used.  
 8. What has your experience been using non- speech generating devices?  
-9.   
+   
 10. Please share the types/versions/brands you have used.  
 11. What experiences have you had using/supporting AAC device users who are multilingual?  
 12. What benefits or barriers have you seen in multilingual AAC devices?  
